@@ -23,6 +23,7 @@ The analysis helps explore patterns in movie data such as:
 
 
 Project Contents
--Excel Movies.xlsx – Cleaned dataset and analysis workbook
+-Clean Data (Movies).xlsx – Cleaned dataset
+- Original Data.csv
 -screenshots/ – Images of pivot tables and visualizations
 -README.md – Project documentation
